@@ -1,0 +1,66 @@
+body{
+	border-radius:3px;
+	border:5px solid teal;
+	margin:0 0 0 0;
+}
+.container{
+	margin-bottom:0;
+	margin-top: 1%;
+	margin-left:1%;
+	margin-right:1%;
+}
+a{
+	display:block;
+	padding:8px;background-color:#dddddd;
+}
+.active{color:#04AA6D;background-color:red;}
+li a,.dropbtn{
+	display:inline-block;
+	color:white;
+	text-align:center;
+	padding:5 15px;
+	text-decoration:none;
+}
+li a:hover,.dropdown:hover .dropbtn{
+	background-color:#111;
+}
+li.dropdown{
+	display:inline
+	border-right:1px solid #bbb;
+	padding:0;
+}
+.dropdown-content{ display:none;position:absolute;background-color:#f1f1f1;min-width:160px;
+	box-shadow:0px 8px 16px 0px rgba(0,0,0,0.2);z-index:1;}
+.dropdown-content a{color:black;padding:12px 16px;display:block;text-align:left;text-decoration:none;}
+.dropdown:hover .dropdown-content{display:block;}
+.dropdown-content a:hover{background-color:#f1f1f1;}
+.header{
+
+}
+.back{
+	border:2px solid teal;
+	padding:1%;
+	border-radius: 10px;
+	transition:1s;
+	transform:rotateY(1s);
+}
+#back1{
+	text-align:center;
+	background-color:teal;
+	font-size:210%;
+	color:blue;}
+#back1cont{
+	font-size:120%;
+	margin:2%;
+}
+#ourvision,#ourmission,#ourgoals,#ourvalues,#ourobjectives,#thematicprogramme{
+	font-size: 130%;text-align:center;font-size:200%;color:blue;
+	margin:auto;
+}
+#disciples{
+	background-color:darkblue;display:block;
+}
+#im1{padding-top:15px;font-size:200%;}
+.footer{
+
+}
