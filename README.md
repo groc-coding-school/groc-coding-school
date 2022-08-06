@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Christopher Amadra Titus</h1>
 <h3 align="center">I am a self taught Web developer and a programmer from Uganda</h3>
 
-<p align="left"> <a href="https://twitter.com/kolynz_b" target="blank"><img src="https://img.shields.io/twitter/follow/kolynz_b?logo=twitter&style=for-the-badge" alt="kolynz_b" /></a> </p>
-
-- 💬 Ask me about **C , C++ , Python Web Developement**
+- 💬 Ask me about **C , C++ , PHP , Python Web Developement**
 
 - 📫 Reach me at **groc.coders.schools@gmail.com**
 
